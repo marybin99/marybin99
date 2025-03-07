@@ -13,10 +13,12 @@
 <img src="https://img.shields.io/badge/CSS-F43059.svg?&?style=flat&logo=CSS3&logoColor=white"/>
 <p></p>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <p></p>
+<img src="https://img.shields.io/badge/TailwindCss-05B6D4?style=flat&logo=TailwindCss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vuetify-1867c0?style=flat&logo=Vuetify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white"/>
